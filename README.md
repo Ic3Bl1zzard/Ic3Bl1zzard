@@ -1,16 +1,19 @@
-### Hi there 👋
+![] (https://i.ytimg.com/vi/hNDOLacr9W8/maxresdefault.jpg)
 
-<!--
-**Ic3Bl1zzard/Ic3Bl1zzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am Douglas, and I am 19 years old. I am enrolled under computer Science as a student in college. 
 
-Here are some ideas to get you started:
+## ✉️ Contact Me
+* Discord (IceBlizzard#2154)
+* Email (iceblizzard10000@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ My Expertise 
+#### The main languages I primarily work in:
+* Java
+* Python
+* HTML/CSS/JS
+* PHP
+
+
+
+
