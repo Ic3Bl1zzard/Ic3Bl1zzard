@@ -1,4 +1,4 @@
-![] (https://i.ytimg.com/vi/hNDOLacr9W8/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/hNDOLacr9W8/maxresdefault.jpg)
 
 ## 👋 About Me
 I am Douglas, and I am 19 years old. I am enrolled under computer Science as a student in college. 
