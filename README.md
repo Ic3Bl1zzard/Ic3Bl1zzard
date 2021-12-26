@@ -8,7 +8,7 @@ I am Douglas, and I am 19 years old. I am enrolled under computer Science as a s
 * Email (iceblizzard10000@gmail.com) 
 
 ## ✍️ My Expertise 
-#### The main languages I primarily work in:
+#### Main languages I primarily work in:
 * Java
 * Python
 * HTML/CSS/JS
